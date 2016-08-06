@@ -1,5 +1,4 @@
-<<<<<<< HEAD
+
 don jhon 
-=======
+
 Esto no debe estar vacio
->>>>>>> 921e8da4cd3c065b1a61341a33cb7a975493ddeb
