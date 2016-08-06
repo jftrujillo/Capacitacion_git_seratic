@@ -1,8 +1,8 @@
-<<<<<<< HEAD
+
 Eliana cambio del archivo de eliana
-=======
+
 Eliana
 
 
 prueba 
->>>>>>> afd4eaee25c058c05af0a5fa32cbfabf0390cbfb
+
